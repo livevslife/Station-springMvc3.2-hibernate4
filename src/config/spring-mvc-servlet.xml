@@ -17,13 +17,13 @@
 	<mvc:annotation-driven />
 	
 	<!-- 设置首页 -->
-	<mvc:view-controller path="/" view-name="main"/>
+	<mvc:view-controller path="/" view-name="index"/>
 	<!--视图解析 -->
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="viewClass"
 			value="org.springframework.web.servlet.view.JstlView" />
-		<property name="prefix" value="/View/uimaker/"></property>
+		<property name="prefix" value="/View/pages/"></property>
 		<property name="suffix" value=".jsp"></property>
 	</bean>
 	<!--静态文件的访问 -->
