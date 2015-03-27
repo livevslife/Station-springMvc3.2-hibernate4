@@ -1,0 +1,8 @@
+帐号：qqliaoxin@qq.com
+密码: git13204444
+
+git下载地址：
+https://github.com/livevslife/Station-springMvc3.2-hibernate4.git
+
+项目页面管理地址：
+https://github.com/livevslife/Station-springMvc3.2-hibernate4
