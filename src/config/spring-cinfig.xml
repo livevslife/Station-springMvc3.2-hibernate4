@@ -102,6 +102,8 @@
 	</bean>
 	<!--拦截器，不知道什么问题,不支持<mvc:exclude-mapping/>，经查阅schema文件，发现其中没有<mvc:exclude-mapping/>标签
 		不知道本人理解的对不对！
+		login拦截器登陆设置
+		http://my.oschina.net/uniquejava/blog/83657
 	-->
 	<mvc:interceptors >
   		<mvc:interceptor>

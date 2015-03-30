@@ -13,7 +13,7 @@ import org.hibernate.annotations.GenericGenerator;
 
 @Entity
 @Table(name="t_user")
-@SequenceGenerator(name="bbs_seq",sequenceName="bbs")
+//@SequenceGenerator(name="bbs_seq",sequenceName="bbs")
 public class User {
 	@Id
 	@Column(name="c_userid",length=32)
