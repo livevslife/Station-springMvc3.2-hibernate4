@@ -12,7 +12,7 @@
 		target="_blank">用户信息页面</a>
 	<br />
 	<br /> 管理员可访问
-	<a href="shiro/listUser.jsp"
+	<a href="shiro/listUser"
 		target="_blank">用户列表页面</a>
 	<br />
 	<br />

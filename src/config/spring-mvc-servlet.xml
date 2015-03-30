@@ -17,7 +17,7 @@
 	<mvc:annotation-driven />
 
 	<!-- 设置首页 -->
-	<mvc:view-controller path="/" view-name="main" />
+	<mvc:view-controller path="/" view-name="login" />
 
 	<!--视图解析 -->
 	<bean id="viewResolver"
